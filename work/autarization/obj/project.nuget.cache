@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AHBKuy25fT8s6wniorEpACgJ38WFTYUCMx3JcfkpsYAY3g8d0Tbq/NfiHYlDgWv3+ZHPkP+cZYs6/toFaSeRrg==",
+  "dgSpecHash": "YmZSx3oxRjgg6AmwvGigLKWzWYrgpcFqx+F8WfGE0ijYzzXBtESkPvb2KMySMBFDHzzvztWJRtCNjHvfb7cSKg==",
   "success": true,
-  "projectFilePath": "D:\\WPF 04.02\\autarizationWindows-master\\autarization\\autarization.csproj",
+  "projectFilePath": "D:\\WPF 04.02\\dz para1\\work\\autarization\\autarization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Буч\\.nuget\\packages\\materialdesigncolors\\2.0.7\\materialdesigncolors.2.0.7.nupkg.sha512",
     "C:\\Users\\Буч\\.nuget\\packages\\materialdesignthemes\\4.6.0\\materialdesignthemes.4.6.0.nupkg.sha512"

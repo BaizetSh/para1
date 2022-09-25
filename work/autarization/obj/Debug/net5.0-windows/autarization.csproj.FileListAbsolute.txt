@@ -110,3 +110,40 @@ D:\WPF 04.02\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\Ma
 D:\WPF 04.02\autarizationWindows-master\autarization\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
 D:\WPF 04.02\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\App.baml
 D:\WPF 04.02\autarizationWindows-master\autarization\obj\Debug\net5.0-windows\autarization.csproj.CopyComplete
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.csproj.AssemblyReference.cache
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\ResourceDictionaries\ColorDictionary.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\ResourceDictionaries\StyleDictionary.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Pages\UsersPage.g.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\AdminWindow.g.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.g.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\BuyerWindow.g.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\ManagerWindow.g.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\App.g.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.cache
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization_MarkupCompile.lref
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.dll
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\ref\autarization.dll
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.pdb
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\autarization.exe
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\autarization.deps.json
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.json
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\autarization.runtimeconfig.dev.json
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\autarization.dll
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\ref\autarization.dll
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\autarization.pdb
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\WPF 04.02\dz para1\work\autarization\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\App.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Pages\UsersPage.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\AdminWindow.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\AuthorizationWindow.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\BuyerWindow.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\View\Windows\ManagerWindow.baml
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.g.resources
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfoInputs.cache
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.AssemblyInfo.cs
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.csproj.CoreCompileInputs.cache
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.csproj.CopyComplete
+D:\WPF 04.02\dz para1\work\autarization\obj\Debug\net5.0-windows\autarization.genruntimeconfig.cache

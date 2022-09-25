@@ -4,9 +4,14 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:autarization.View.Windows"
+        xmlns:viewmodel="clr-namespace:autarization.ViewModel"
+
         mc:Ignorable="d"
-         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:viewmodel1="clr-namespace:autarization.ViewModel"
         Title="Окно авторизации" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <viewmodel:AuthorizationVIewModel/>
+    </Window.DataContext>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="151*"/>
@@ -17,11 +22,12 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="40"/>
             </Grid.RowDefinitions>
-            <StackPanel Margin="20">
+            <StackPanel Margin="20"
+                VerticalAlignment = "Center">
                 <TextBlock  FontSize="25" Text="Введите логин"/>
-                <TextBox x:Name="tbLogin" FontSize="25"/>
+                <TextBox x:Name="tbLogin" Text="{Binding Login}" FontSize="25"/>
                 <TextBlock FontSize="25" Text="Введите пароль"/>
-                <PasswordBox x:Name="tbPassword" FontSize="25"/>
+                <TextBox x:Name="tbPassword" Text="{Binding Password}" FontSize="25"/>
 
             </StackPanel>
             <Button x:Name="btnSingin"

@@ -101,11 +101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WPF 04.02\\autarizationWindows-master\\autarization\\autarization.csproj",
+      "projectUniqueName": "D:\\WPF 04.02\\dz para1\\work\\autarization\\autarization.csproj",
       "projectName": "autarization",
-      "projectPath": "D:\\WPF 04.02\\autarizationWindows-master\\autarization\\autarization.csproj",
+      "projectPath": "D:\\WPF 04.02\\dz para1\\work\\autarization\\autarization.csproj",
       "packagesPath": "C:\\Users\\Буч\\.nuget\\packages\\",
-      "outputPath": "D:\\WPF 04.02\\autarizationWindows-master\\autarization\\obj\\",
+      "outputPath": "D:\\WPF 04.02\\dz para1\\work\\autarization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Буч\\AppData\\Roaming\\NuGet\\NuGet.Config"
