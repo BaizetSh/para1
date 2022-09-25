@@ -8,32 +8,38 @@
 
         mc:Ignorable="d"
          xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:viewmodel1="clr-namespace:autarization.ViewModel"
-        Title="Окно авторизации" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+        Title="Окно авторизации" Height="230" Width="300" WindowStartupLocation="CenterScreen">
     <Window.DataContext>
         <viewmodel:AuthorizationVIewModel/>
     </Window.DataContext>
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="151*"/>
-            <ColumnDefinition Width="149*"/>
-        </Grid.ColumnDefinitions>
-        <Grid Background="#ffdadada" Grid.ColumnSpan="2">
+
+        <Grid Background="White" Grid.ColumnSpan="2">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
-                <RowDefinition Height="40"/>
+                <RowDefinition Height="60"/>
+
             </Grid.RowDefinitions>
+
             <StackPanel Margin="20"
                 VerticalAlignment = "Center">
-                <TextBlock  FontSize="25" Text="Введите логин"/>
-                <TextBox x:Name="tbLogin" Text="{Binding Login}" FontSize="25"/>
-                <TextBlock FontSize="25" Text="Введите пароль"/>
-                <TextBox x:Name="tbPassword" Text="{Binding Password}" FontSize="25"/>
+                <TextBox x:Name="tbLogin" materialDesign:HintAssist.Hint="Введите логин" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
 
+                <PasswordBox x:Name="tbPassword" materialDesign:HintAssist.Hint="Введите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
             </StackPanel>
             <Button x:Name="btnSingin"
             Grid.Row="1"
                 Content="Войти"
                 Click="btnSingin_Click"
+                    Cursor="Hand"
+                    HorizontalAlignment="Left" Margin="156,16,0,12" Width="84"
+                />
+            <Button x:Name="btnExit"
+            Grid.Row="1"
+                Content="Выйти"
+                Click="btnExit_Click"
+                    Cursor="Hand"
+                    HorizontalAlignment="Right" Margin="0,16,152,12" Width="88"
                 />
         </Grid>
     </Grid>
